@@ -15,7 +15,7 @@ print "noun: "
 noun = gets.chomp
 
 print "adjective: "
-adjective2    = gets.chomp
+adjective2 = gets.chomp
 
 print "food(plural): "
 food_plural = gets.chomp
